@@ -85,14 +85,14 @@ const Home = () => {
 
             <div className="flex gap-5">
               <a
-                href="tel:+9779860879556"
+                href="/contact"
                 className="bg-accent hover:bg-accent/80 px-10 py-4 rounded-xl uppercase tracking-widest text-sm font-semibold transition"
               >
                 Book Appointment
               </a>
 
               <a
-                href="/gallery"
+                href="/portfolio"
                 className="border border-accent hover:border-accent/80 px-10 py-4 rounded-xl uppercase tracking-widest text-sm transition"
               >
                 View Work
