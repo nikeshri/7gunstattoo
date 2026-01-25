@@ -92,7 +92,7 @@ const Home = () => {
               </a>
 
               <a
-                href="/portfolio"
+                href="/"
                 className="border border-accent hover:border-accent/80 px-10 py-4 rounded-xl uppercase tracking-widest text-sm transition"
               >
                 View Work
